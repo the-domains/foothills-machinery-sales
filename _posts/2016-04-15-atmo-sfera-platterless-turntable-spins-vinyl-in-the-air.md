@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-19T19:47:55.551Z'
+datePublished: '2016-05-19T20:44:34.892Z'
 sourcePath: _posts/2016-04-15-atmo-sfera-platterless-turntable-spins-vinyl-in-the-air.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/platterless-turntable-atmo-sfera-record-player-kickstarter'
@@ -20,15 +20,15 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-19T19:47:55.149Z'
-title: Atmo Sfera Platterless Turntable Spins Vinyl in the Air
+dateModified: '2016-05-19T20:28:31.422Z'
+title: MATSUURA
 app_links: []
 publisher:
   name: Cool Hunting
   domain: www.coolhunting.com
   url: 'http://www.coolhunting.com'
   favicon: 'http://assets.coolhunting.com/favicon.ico'
-description: "Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own \"upside-down\" take on a turntable. It eschews the basic design that has \"remained the same for about a century.\""
+description: 'https://youtu.be/WQ8-ZcHZMVk'
 inLanguage: en
 inNav: false
 starred: false
@@ -36,4 +36,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Atmo Sfera Platterless Turntable Spins Vinyl in the Air</h1><p>Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own "upside-down" take on a turntable. It eschews the basic design that has "remained the same for about a century."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da4c884a69247901468674ea61c510f8e6356ba9.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57e698026616f73002974a9ba82b898be95df9c2.png" /><h1>MATSUURA</h1><p>Matsuura is the Machine Tool Industries standard or accuracy and productivity. They offer over 50 models of high productivity Vertical Machining Centers, Horizontal Machining Centers and Have over 20 Years of 5 Axis experience. </p></article>
+
+**[https://youtu.be/WQ8-ZcHZMVk][0]**
+
+[0]: https://youtu.be/WQ8-ZcHZMVk
