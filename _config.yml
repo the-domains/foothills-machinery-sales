@@ -6,9 +6,10 @@ color:
   saturation: 0.7852568810340017
   rhythmicContrast: 0.19780602352693677
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: Foothills Machinery Sales
+title: Machine Tools for the Metalworking Industry
