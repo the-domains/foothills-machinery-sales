@@ -1,16 +1,16 @@
-typography_spectrum: 0.016026374883949757
+layout_spectrum: 0.9342242085840553
+typography_spectrum: 0.11379444552585483
 color:
-  brandStrength: 0.14469292643480003
-  lightness: 0.6540206922218204
-  saturation: 0.7852568810340017
-  rhythmicContrast: 0.19780602352693677
+  brandStrength: 0.7967910207808018
+  lightness: 0.03685718425549567
+  saturation: 0.6242744042538106
+  rhythmicContrast: 0.55457479855977
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.992014474933967
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 author:
   name: Troy
   email: Troy@foothillsmachinery.com
