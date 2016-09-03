@@ -11,6 +11,12 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.992014474933967
+author:
+  name: Troy
+  email: Troy@foothillsmachinery.com
+  url: foothillsmachinery.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8ce19a6-f4cf-4a5b-bc7b-557e727ad083.png
 name: Foothills Machinery Sales
 navigation:
   - name: HURCO
